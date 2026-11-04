@@ -19,4 +19,4 @@ services:
       - key: SUPABASE_SERVICE_ROLE_KEY
         sync: false
       - key: ALLOWED_ORIGINS
-        value: http://localhost:5173
+        value: http://localhost:5173,https://infraestructura-arquitectura-1-five.vercel.app
